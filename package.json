@@ -1,0 +1,26 @@
+{
+  "name": "api-example---insurance-api-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMarty/API-Example---insurance-api-mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IMarty/API-Example---insurance-api-mock/issues"
+  },
+  "homepage": "https://github.com/IMarty/API-Example---insurance-api-mock#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
+}
